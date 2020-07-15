@@ -10,9 +10,9 @@ abstract class Shape {
    }
 }
 class Rectangle extends Shape {
-//   void draw() {
-//     print("Drawing Rectangle .....");      
-//   }
+   void draw() {
+   	print("Drawing Rectangle .....");      
+   }
 
 }
 class Circle extends Shape {
